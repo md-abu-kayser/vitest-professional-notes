@@ -1,0 +1,23 @@
+{
+  "name": "vitest-professional-notes",
+  "version": "1.0.0",
+  "description": "Comprehensive notes on Vitest - the blazing fast Vite-native testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-abu-kayser/vitest-professional-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-abu-kayser/vitest-professional-notes/issues"
+  },
+  "homepage": "https://github.com/md-abu-kayser/vitest-professional-notes#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
