@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/md-abu-kayser/vitest-professional-notes#readme",
   "devDependencies": {
-    "typescript": "^7.0.2"
+    "@types/node": "^26.1.1",
+    "@vue/test-utils": "^2.4.11",
+    "jsdom": "^29.1.1",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
   }
 }
